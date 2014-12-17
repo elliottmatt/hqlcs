@@ -1,0 +1,2010 @@
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_1.txt  hqlcs_1.txt 
+Comparing files pdt_1.txt and HQLCS_1.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_2.txt  hqlcs_2.txt 
+Comparing files pdt_2.txt and HQLCS_2.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_3.txt  hqlcs_3.txt 
+Comparing files pdt_3.txt and HQLCS_3.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_4.txt  hqlcs_4.txt 
+Comparing files pdt_4.txt and HQLCS_4.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_5.txt  hqlcs_5.txt 
+Comparing files pdt_5.txt and HQLCS_5.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_6.txt  hqlcs_6.txt 
+Comparing files pdt_6.txt and HQLCS_6.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_7.txt  hqlcs_7.txt 
+Comparing files pdt_7.txt and HQLCS_7.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_8.txt  hqlcs_8.txt 
+Comparing files pdt_8.txt and HQLCS_8.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_9.txt  hqlcs_9.txt 
+Comparing files pdt_9.txt and HQLCS_9.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_10.txt  hqlcs_10.txt 
+Comparing files pdt_10.txt and HQLCS_10.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_11.txt  hqlcs_11.txt 
+Comparing files pdt_11.txt and HQLCS_11.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_12.txt  hqlcs_12.txt 
+Comparing files pdt_12.txt and HQLCS_12.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_13.txt  hqlcs_13.txt 
+Comparing files pdt_13.txt and HQLCS_13.TXT
+***** pdt_13.txt
+1
+6
+11
+2
+***** HQLCS_13.TXT
+11
+3
+6
+1
+2
+*****
+
+***** pdt_13.txt
+4
+5
+8
+3
+7
+0
+9
+10
+***** HQLCS_13.TXT
+4
+7
+9
+8
+5
+0
+10
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_14.txt  hqlcs_14.txt 
+Comparing files pdt_14.txt and HQLCS_14.TXT
+***** pdt_14.txt
+1
+1
+2
+1
+***** HQLCS_14.TXT
+2
+1
+*****
+
+***** pdt_14.txt
+1
+2
+***** HQLCS_14.TXT
+1
+1
+1
+2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_15.txt  hqlcs_15.txt 
+Comparing files pdt_15.txt and HQLCS_15.TXT
+***** pdt_15.txt
+1
+6
+11
+2
+***** HQLCS_15.TXT
+11
+3
+6
+1
+2
+*****
+
+***** pdt_15.txt
+4
+5
+8
+3
+7
+0
+9
+10
+***** HQLCS_15.TXT
+4
+7
+9
+8
+5
+0
+10
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_16.txt  hqlcs_16.txt 
+Comparing files pdt_16.txt and HQLCS_16.TXT
+***** pdt_16.txt
+1
+1
+2
+1
+***** HQLCS_16.TXT
+2
+1
+*****
+
+***** pdt_16.txt
+1
+2
+***** HQLCS_16.TXT
+1
+1
+1
+2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_17.txt  hqlcs_17.txt 
+Comparing files pdt_17.txt and HQLCS_17.TXT
+***** pdt_17.txt
+1
+1
+2
+1
+***** HQLCS_17.TXT
+2
+1
+*****
+
+***** pdt_17.txt
+1
+2
+***** HQLCS_17.TXT
+1
+1
+1
+2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_18.txt  hqlcs_18.txt 
+Comparing files pdt_18.txt and HQLCS_18.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_19.txt  hqlcs_19.txt 
+Comparing files pdt_19.txt and HQLCS_19.TXT
+***** pdt_19.txt
+7
+8
+***** HQLCS_19.TXT
+9
+4
+2
+6
+8
+*****
+
+***** pdt_19.txt
+10
+3
+***** HQLCS_19.TXT
+10
+5
+1
+11
+3
+*****
+
+***** pdt_19.txt
+0
+1
+2
+9
+4
+5
+6
+11
+***** HQLCS_19.TXT
+0
+7
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_20.txt  hqlcs_20.txt 
+Comparing files pdt_20.txt and HQLCS_20.TXT
+***** pdt_20.txt
+1
+2
+1
+***** HQLCS_20.TXT
+1
+1
+*****
+
+***** pdt_20.txt
+1
+1
+***** HQLCS_20.TXT
+1
+2
+1
+*****
+
+***** pdt_20.txt
+1
+1
+***** HQLCS_20.TXT
+1
+2
+1
+*****
+
+***** pdt_20.txt
+2
+***** HQLCS_20.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_21.txt  hqlcs_21.txt 
+Comparing files pdt_21.txt and HQLCS_21.TXT
+***** pdt_21.txt
+1
+2
+1
+***** HQLCS_21.TXT
+1
+1
+*****
+
+***** pdt_21.txt
+1
+1
+***** HQLCS_21.TXT
+1
+2
+1
+*****
+
+***** pdt_21.txt
+1
+1
+***** HQLCS_21.TXT
+1
+2
+1
+*****
+
+***** pdt_21.txt
+2
+***** HQLCS_21.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_22.txt  hqlcs_22.txt 
+Comparing files pdt_22.txt and HQLCS_22.TXT
+***** pdt_22.txt
+1
+2
+***** HQLCS_22.TXT
+1
+10
+11
+2
+*****
+
+***** pdt_22.txt
+10
+11
+***** HQLCS_22.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_23.txt  hqlcs_23.txt 
+Comparing files pdt_23.txt and HQLCS_23.TXT
+***** pdt_23.txt
+1
+1
+***** HQLCS_23.TXT
+1
+2
+2
+1
+*****
+
+***** pdt_23.txt
+2
+2
+***** HQLCS_23.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_24.txt  hqlcs_24.txt 
+Comparing files pdt_24.txt and HQLCS_24.TXT
+***** pdt_24.txt
+66
+***** HQLCS_24.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_25.txt  hqlcs_25.txt 
+Comparing files pdt_25.txt and HQLCS_25.TXT
+***** pdt_25.txt
+2
+***** HQLCS_25.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_26.txt  hqlcs_26.txt 
+Comparing files pdt_26.txt and HQLCS_26.TXT
+***** pdt_26.txt
+14
+***** HQLCS_26.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_27.txt  hqlcs_27.txt 
+Comparing files pdt_27.txt and HQLCS_27.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_28.txt  hqlcs_28.txt 
+Comparing files pdt_28.txt and HQLCS_28.TXT
+***** pdt_28.txt
+66
+***** HQLCS_28.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_29.txt  hqlcs_29.txt 
+Comparing files pdt_29.txt and HQLCS_29.TXT
+***** pdt_29.txt
+2
+***** HQLCS_29.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_30.txt  hqlcs_30.txt 
+Comparing files pdt_30.txt and HQLCS_30.TXT
+***** pdt_30.txt
+14
+***** HQLCS_30.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_31.txt  hqlcs_31.txt 
+Comparing files pdt_31.txt and HQLCS_31.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_32.txt  hqlcs_32.txt 
+Comparing files pdt_32.txt and HQLCS_32.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_33.txt  hqlcs_33.txt 
+Comparing files pdt_33.txt and HQLCS_33.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_34.txt  hqlcs_34.txt 
+Comparing files pdt_34.txt and HQLCS_34.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_35.txt  hqlcs_35.txt 
+Comparing files pdt_35.txt and HQLCS_35.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_36.txt  hqlcs_36.txt 
+Comparing files pdt_36.txt and HQLCS_36.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_37.txt  hqlcs_37.txt 
+Comparing files pdt_37.txt and HQLCS_37.TXT
+***** pdt_37.txt
+1
+6
+11
+2
+***** HQLCS_37.TXT
+11
+3
+6
+1
+2
+*****
+
+***** pdt_37.txt
+4
+5
+8
+3
+7
+***** HQLCS_37.TXT
+4
+7
+*****
+
+***** pdt_37.txt
+9
+10
+***** HQLCS_37.TXT
+9
+8
+5
+10
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_38.txt  hqlcs_38.txt 
+Comparing files pdt_38.txt and HQLCS_38.TXT
+***** pdt_38.txt
+1
+1
+2
+1
+***** HQLCS_38.TXT
+2
+1
+*****
+
+***** pdt_38.txt
+1
+2
+***** HQLCS_38.TXT
+1
+1
+1
+2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_39.txt  hqlcs_39.txt 
+Comparing files pdt_39.txt and HQLCS_39.TXT
+***** pdt_39.txt
+1
+6
+11
+2
+***** HQLCS_39.TXT
+11
+3
+6
+1
+2
+*****
+
+***** pdt_39.txt
+4
+5
+8
+3
+7
+***** HQLCS_39.TXT
+4
+7
+*****
+
+***** pdt_39.txt
+9
+10
+***** HQLCS_39.TXT
+9
+8
+5
+10
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_40.txt  hqlcs_40.txt 
+Comparing files pdt_40.txt and HQLCS_40.TXT
+***** pdt_40.txt
+1
+1
+2
+1
+***** HQLCS_40.TXT
+2
+1
+*****
+
+***** pdt_40.txt
+1
+2
+***** HQLCS_40.TXT
+1
+1
+1
+2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_41.txt  hqlcs_41.txt 
+Comparing files pdt_41.txt and HQLCS_41.TXT
+***** pdt_41.txt
+1
+1
+2
+1
+***** HQLCS_41.TXT
+2
+1
+*****
+
+***** pdt_41.txt
+1
+2
+***** HQLCS_41.TXT
+1
+1
+1
+2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_42.txt  hqlcs_42.txt 
+Comparing files pdt_42.txt and HQLCS_42.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_43.txt  hqlcs_43.txt 
+Comparing files pdt_43.txt and HQLCS_43.TXT
+***** pdt_43.txt
+7
+8
+***** HQLCS_43.TXT
+9
+4
+2
+6
+8
+*****
+
+***** pdt_43.txt
+10
+3
+1
+2
+9
+4
+5
+6
+11
+***** HQLCS_43.TXT
+10
+5
+1
+11
+*****
+
+***** pdt_43.txt
+***** HQLCS_43.TXT
+3
+7
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_44.txt  hqlcs_44.txt 
+Comparing files pdt_44.txt and HQLCS_44.TXT
+***** pdt_44.txt
+1
+2
+1
+***** HQLCS_44.TXT
+1
+1
+*****
+
+***** pdt_44.txt
+1
+1
+***** HQLCS_44.TXT
+1
+2
+1
+*****
+
+***** pdt_44.txt
+1
+1
+***** HQLCS_44.TXT
+1
+2
+1
+*****
+
+***** pdt_44.txt
+2
+***** HQLCS_44.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_45.txt  hqlcs_45.txt 
+Comparing files pdt_45.txt and HQLCS_45.TXT
+***** pdt_45.txt
+1
+2
+1
+***** HQLCS_45.TXT
+1
+1
+*****
+
+***** pdt_45.txt
+1
+1
+***** HQLCS_45.TXT
+1
+2
+1
+*****
+
+***** pdt_45.txt
+1
+1
+***** HQLCS_45.TXT
+1
+2
+1
+*****
+
+***** pdt_45.txt
+2
+***** HQLCS_45.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_46.txt  hqlcs_46.txt 
+Comparing files pdt_46.txt and HQLCS_46.TXT
+***** pdt_46.txt
+1
+2
+***** HQLCS_46.TXT
+1
+10
+11
+2
+*****
+
+***** pdt_46.txt
+10
+11
+***** HQLCS_46.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_47.txt  hqlcs_47.txt 
+Comparing files pdt_47.txt and HQLCS_47.TXT
+***** pdt_47.txt
+1
+1
+***** HQLCS_47.TXT
+1
+2
+2
+1
+*****
+
+***** pdt_47.txt
+2
+2
+***** HQLCS_47.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_48.txt  hqlcs_48.txt 
+Comparing files pdt_48.txt and HQLCS_48.TXT
+***** pdt_48.txt
+66
+***** HQLCS_48.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_49.txt  hqlcs_49.txt 
+Comparing files pdt_49.txt and HQLCS_49.TXT
+***** pdt_49.txt
+2
+***** HQLCS_49.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_50.txt  hqlcs_50.txt 
+Comparing files pdt_50.txt and HQLCS_50.TXT
+***** pdt_50.txt
+13
+***** HQLCS_50.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_51.txt  hqlcs_51.txt 
+Comparing files pdt_51.txt and HQLCS_51.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_52.txt  hqlcs_52.txt 
+Comparing files pdt_52.txt and HQLCS_52.TXT
+***** pdt_52.txt
+66
+***** HQLCS_52.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_53.txt  hqlcs_53.txt 
+Comparing files pdt_53.txt and HQLCS_53.TXT
+***** pdt_53.txt
+2
+***** HQLCS_53.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_54.txt  hqlcs_54.txt 
+Comparing files pdt_54.txt and HQLCS_54.TXT
+***** pdt_54.txt
+13
+***** HQLCS_54.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_55.txt  hqlcs_55.txt 
+Comparing files pdt_55.txt and HQLCS_55.TXT
+***** pdt_55.txt
+5
+0
+1
+7
+8
+2
+***** HQLCS_55.TXT
+8
+10
+6
+0
+2
+*****
+
+***** pdt_55.txt
+3
+4
+9
+6
+10
+11
+***** HQLCS_55.TXT
+3
+1
+9
+11
+*****
+
+***** pdt_55.txt
+***** HQLCS_55.TXT
+5
+7
+4
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_56.txt  hqlcs_56.txt 
+Comparing files pdt_56.txt and HQLCS_56.TXT
+***** pdt_56.txt
+1
+1
+***** HQLCS_56.TXT
+1
+2
+1
+*****
+
+***** pdt_56.txt
+1
+1
+***** HQLCS_56.TXT
+1
+2
+1
+*****
+
+***** pdt_56.txt
+2
+2
+***** HQLCS_56.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_57.txt  hqlcs_57.txt 
+Comparing files pdt_57.txt and HQLCS_57.TXT
+***** pdt_57.txt
+5
+0
+1
+7
+8
+2
+***** HQLCS_57.TXT
+8
+10
+6
+0
+2
+*****
+
+***** pdt_57.txt
+3
+4
+9
+6
+10
+11
+***** HQLCS_57.TXT
+3
+1
+9
+11
+*****
+
+***** pdt_57.txt
+***** HQLCS_57.TXT
+5
+7
+4
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_58.txt  hqlcs_58.txt 
+Comparing files pdt_58.txt and HQLCS_58.TXT
+***** pdt_58.txt
+1
+1
+***** HQLCS_58.TXT
+1
+2
+1
+*****
+
+***** pdt_58.txt
+1
+1
+***** HQLCS_58.TXT
+1
+2
+1
+*****
+
+***** pdt_58.txt
+2
+2
+***** HQLCS_58.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_59.txt  hqlcs_59.txt 
+Comparing files pdt_59.txt and HQLCS_59.TXT
+***** pdt_59.txt
+1
+1
+***** HQLCS_59.TXT
+1
+2
+1
+*****
+
+***** pdt_59.txt
+1
+1
+***** HQLCS_59.TXT
+1
+2
+1
+*****
+
+***** pdt_59.txt
+2
+2
+***** HQLCS_59.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_60.txt  hqlcs_60.txt 
+Comparing files pdt_60.txt and HQLCS_60.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_61.txt  hqlcs_61.txt 
+Comparing files pdt_61.txt and HQLCS_61.TXT
+***** pdt_61.txt
+1
+2
+***** HQLCS_61.TXT
+1
+10
+11
+2
+*****
+
+***** pdt_61.txt
+10
+11
+***** HQLCS_61.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_62.txt  hqlcs_62.txt 
+Comparing files pdt_62.txt and HQLCS_62.TXT
+***** pdt_62.txt
+1
+1
+***** HQLCS_62.TXT
+1
+2
+2
+1
+*****
+
+***** pdt_62.txt
+2
+2
+***** HQLCS_62.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_63.txt  hqlcs_63.txt 
+Comparing files pdt_63.txt and HQLCS_63.TXT
+***** pdt_63.txt
+1
+2
+***** HQLCS_63.TXT
+1
+10
+11
+2
+*****
+
+***** pdt_63.txt
+10
+11
+***** HQLCS_63.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_64.txt  hqlcs_64.txt 
+Comparing files pdt_64.txt and HQLCS_64.TXT
+***** pdt_64.txt
+1
+1
+***** HQLCS_64.TXT
+1
+2
+2
+1
+*****
+
+***** pdt_64.txt
+2
+2
+***** HQLCS_64.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_65.txt  hqlcs_65.txt 
+Comparing files pdt_65.txt and HQLCS_65.TXT
+***** pdt_65.txt
+1
+1
+***** HQLCS_65.TXT
+1
+2
+2
+1
+*****
+
+***** pdt_65.txt
+2
+2
+***** HQLCS_65.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_66.txt  hqlcs_66.txt 
+Comparing files pdt_66.txt and HQLCS_66.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_67.txt  hqlcs_67.txt 
+Comparing files pdt_67.txt and HQLCS_67.TXT
+***** pdt_67.txt
+1
+6
+11
+2
+***** HQLCS_67.TXT
+11
+3
+6
+1
+2
+*****
+
+***** pdt_67.txt
+4
+5
+8
+3
+7
+***** HQLCS_67.TXT
+4
+7
+*****
+
+***** pdt_67.txt
+9
+10
+***** HQLCS_67.TXT
+9
+8
+5
+10
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_68.txt  hqlcs_68.txt 
+Comparing files pdt_68.txt and HQLCS_68.TXT
+***** pdt_68.txt
+1
+1
+2
+1
+***** HQLCS_68.TXT
+2
+1
+*****
+
+***** pdt_68.txt
+1
+2
+***** HQLCS_68.TXT
+1
+1
+1
+2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_69.txt  hqlcs_69.txt 
+Comparing files pdt_69.txt and HQLCS_69.TXT
+***** pdt_69.txt
+1
+6
+11
+2
+***** HQLCS_69.TXT
+11
+3
+6
+1
+2
+*****
+
+***** pdt_69.txt
+4
+5
+8
+3
+7
+***** HQLCS_69.TXT
+4
+7
+*****
+
+***** pdt_69.txt
+9
+10
+***** HQLCS_69.TXT
+9
+8
+5
+10
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_70.txt  hqlcs_70.txt 
+Comparing files pdt_70.txt and HQLCS_70.TXT
+***** pdt_70.txt
+1
+1
+2
+1
+***** HQLCS_70.TXT
+2
+1
+*****
+
+***** pdt_70.txt
+1
+2
+***** HQLCS_70.TXT
+1
+1
+1
+2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_71.txt  hqlcs_71.txt 
+Comparing files pdt_71.txt and HQLCS_71.TXT
+***** pdt_71.txt
+1
+1
+2
+1
+***** HQLCS_71.TXT
+2
+1
+*****
+
+***** pdt_71.txt
+1
+2
+***** HQLCS_71.TXT
+1
+1
+1
+2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_72.txt  hqlcs_72.txt 
+Comparing files pdt_72.txt and HQLCS_72.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_73.txt  hqlcs_73.txt 
+Comparing files pdt_73.txt and HQLCS_73.TXT
+***** pdt_73.txt
+7
+8
+***** HQLCS_73.TXT
+9
+4
+2
+6
+8
+*****
+
+***** pdt_73.txt
+10
+3
+1
+2
+9
+4
+5
+6
+11
+***** HQLCS_73.TXT
+10
+5
+1
+11
+*****
+
+***** pdt_73.txt
+***** HQLCS_73.TXT
+3
+7
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_74.txt  hqlcs_74.txt 
+Comparing files pdt_74.txt and HQLCS_74.TXT
+***** pdt_74.txt
+1
+2
+1
+***** HQLCS_74.TXT
+1
+1
+*****
+
+***** pdt_74.txt
+1
+1
+***** HQLCS_74.TXT
+1
+2
+1
+*****
+
+***** pdt_74.txt
+1
+1
+***** HQLCS_74.TXT
+1
+2
+1
+*****
+
+***** pdt_74.txt
+2
+***** HQLCS_74.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_75.txt  hqlcs_75.txt 
+Comparing files pdt_75.txt and HQLCS_75.TXT
+***** pdt_75.txt
+1
+2
+1
+***** HQLCS_75.TXT
+1
+1
+*****
+
+***** pdt_75.txt
+1
+1
+***** HQLCS_75.TXT
+1
+2
+1
+*****
+
+***** pdt_75.txt
+1
+1
+***** HQLCS_75.TXT
+1
+2
+1
+*****
+
+***** pdt_75.txt
+2
+***** HQLCS_75.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_76.txt  hqlcs_76.txt 
+Comparing files pdt_76.txt and HQLCS_76.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_77.txt  hqlcs_77.txt 
+Comparing files pdt_77.txt and HQLCS_77.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_78.txt  hqlcs_78.txt 
+Comparing files pdt_78.txt and HQLCS_78.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_79.txt  hqlcs_79.txt 
+Comparing files pdt_79.txt and HQLCS_79.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_80.txt  hqlcs_80.txt 
+Comparing files pdt_80.txt and HQLCS_80.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_81.txt  hqlcs_81.txt 
+Comparing files pdt_81.txt and HQLCS_81.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_82.txt  hqlcs_82.txt 
+Comparing files pdt_82.txt and HQLCS_82.TXT
+***** pdt_82.txt
+1|1
+6|1
+11|2
+2|1
+***** HQLCS_82.TXT
+11|2
+3|1
+6|1
+1|1
+2|1
+*****
+
+***** pdt_82.txt
+4|1
+5|1
+8|1
+3|1
+7|1
+0|1
+9|1
+10|2
+***** HQLCS_82.TXT
+4|1
+7|1
+9|1
+8|1
+5|1
+0|1
+10|2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_83.txt  hqlcs_83.txt 
+Comparing files pdt_83.txt and HQLCS_83.TXT
+***** pdt_83.txt
+1|1
+6|6
+11|11
+2|2
+***** HQLCS_83.TXT
+11|11
+3|3
+6|6
+1|1
+2|2
+*****
+
+***** pdt_83.txt
+4|4
+5|5
+8|8
+3|3
+7|7
+0|0
+9|9
+10|10
+***** HQLCS_83.TXT
+4|4
+7|7
+9|9
+8|8
+5|5
+0|0
+10|10
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_84.txt  hqlcs_84.txt 
+Comparing files pdt_84.txt and HQLCS_84.TXT
+***** pdt_84.txt
+1|1
+6|1
+11|2
+2|1
+***** HQLCS_84.TXT
+11|2
+3|1
+6|1
+1|1
+2|1
+*****
+
+***** pdt_84.txt
+4|1
+5|1
+8|1
+3|1
+7|1
+0|1
+9|1
+10|2
+***** HQLCS_84.TXT
+4|1
+7|1
+9|1
+8|1
+5|1
+0|1
+10|2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_85.txt  hqlcs_85.txt 
+Comparing files pdt_85.txt and HQLCS_85.TXT
+***** pdt_85.txt
+1|1
+6|1
+11|2
+2|1
+***** HQLCS_85.TXT
+11|2
+3|1
+6|1
+1|1
+2|1
+*****
+
+***** pdt_85.txt
+4|1
+5|1
+8|1
+3|1
+7|1
+0|1
+9|1
+10|2
+***** HQLCS_85.TXT
+4|1
+7|1
+9|1
+8|1
+5|1
+0|1
+10|2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_86.txt  hqlcs_86.txt 
+Comparing files pdt_86.txt and HQLCS_86.TXT
+***** pdt_86.txt
+1|1
+6|1
+11|1
+2|1
+***** HQLCS_86.TXT
+11|1
+3|1
+6|1
+1|1
+2|1
+*****
+
+***** pdt_86.txt
+4|1
+5|1
+8|1
+3|1
+7|1
+0|1
+9|1
+10|1
+***** HQLCS_86.TXT
+4|1
+7|1
+9|1
+8|1
+5|1
+0|1
+10|1
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_87.txt  hqlcs_87.txt 
+Comparing files pdt_87.txt and HQLCS_87.TXT
+***** pdt_87.txt
+1|1
+1|6
+2|11
+1|2
+***** HQLCS_87.TXT
+2|11
+1|3
+1|6
+1|1
+1|2
+*****
+
+***** pdt_87.txt
+1|4
+1|5
+1|8
+1|3
+1|7
+1|0
+1|9
+2|10
+***** HQLCS_87.TXT
+1|4
+1|7
+1|9
+1|8
+1|5
+1|0
+2|10
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_88.txt  hqlcs_88.txt 
+Comparing files pdt_88.txt and HQLCS_88.TXT
+***** pdt_88.txt
+1|1
+1|1
+2|2
+1|1
+***** HQLCS_88.TXT
+2|2
+1|1
+*****
+
+***** pdt_88.txt
+1|1
+2|2
+***** HQLCS_88.TXT
+1|1
+1|1
+1|1
+2|2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_89.txt  hqlcs_89.txt 
+Comparing files pdt_89.txt and HQLCS_89.TXT
+***** pdt_89.txt
+1|1
+1|1
+2|2
+1|1
+***** HQLCS_89.TXT
+2|2
+1|1
+*****
+
+***** pdt_89.txt
+1|1
+2|2
+***** HQLCS_89.TXT
+1|1
+1|1
+1|1
+2|2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_90.txt  hqlcs_90.txt 
+Comparing files pdt_90.txt and HQLCS_90.TXT
+***** pdt_90.txt
+1|1
+1|1
+2|1
+1|1
+***** HQLCS_90.TXT
+2|1
+1|1
+*****
+
+***** pdt_90.txt
+1|1
+2|1
+***** HQLCS_90.TXT
+1|1
+1|1
+1|1
+2|1
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_91.txt  hqlcs_91.txt 
+Comparing files pdt_91.txt and HQLCS_91.TXT
+***** pdt_91.txt
+1|1
+6|1
+11|2
+2|1
+***** HQLCS_91.TXT
+11|2
+3|1
+6|1
+1|1
+2|1
+*****
+
+***** pdt_91.txt
+4|1
+5|1
+8|1
+3|1
+7|1
+0|1
+9|1
+10|2
+***** HQLCS_91.TXT
+4|1
+7|1
+9|1
+8|1
+5|1
+0|1
+10|2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_92.txt  hqlcs_92.txt 
+Comparing files pdt_92.txt and HQLCS_92.TXT
+***** pdt_92.txt
+1|1
+6|1
+11|2
+2|1
+***** HQLCS_92.TXT
+11|2
+3|1
+6|1
+1|1
+2|1
+*****
+
+***** pdt_92.txt
+4|1
+5|1
+8|1
+3|1
+7|1
+0|1
+9|1
+10|2
+***** HQLCS_92.TXT
+4|1
+7|1
+9|1
+8|1
+5|1
+0|1
+10|2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_93.txt  hqlcs_93.txt 
+Comparing files pdt_93.txt and HQLCS_93.TXT
+***** pdt_93.txt
+1|1
+6|1
+11|1
+2|1
+***** HQLCS_93.TXT
+11|1
+3|1
+6|1
+1|1
+2|1
+*****
+
+***** pdt_93.txt
+4|1
+5|1
+8|1
+3|1
+7|1
+0|1
+9|1
+10|1
+***** HQLCS_93.TXT
+4|1
+7|1
+9|1
+8|1
+5|1
+0|1
+10|1
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_94.txt  hqlcs_94.txt 
+Comparing files pdt_94.txt and HQLCS_94.TXT
+***** pdt_94.txt
+1|1
+1|1
+2|2
+1|1
+***** HQLCS_94.TXT
+2|2
+1|1
+*****
+
+***** pdt_94.txt
+1|1
+2|2
+***** HQLCS_94.TXT
+1|1
+1|1
+1|1
+2|2
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_95.txt  hqlcs_95.txt 
+Comparing files pdt_95.txt and HQLCS_95.TXT
+***** pdt_95.txt
+1|1
+1|1
+2|1
+1|1
+***** HQLCS_95.TXT
+2|1
+1|1
+*****
+
+***** pdt_95.txt
+1|1
+2|1
+***** HQLCS_95.TXT
+1|1
+1|1
+1|1
+2|1
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_96.txt  hqlcs_96.txt 
+Comparing files pdt_96.txt and HQLCS_96.TXT
+***** pdt_96.txt
+1|1
+1|1
+2|1
+1|1
+***** HQLCS_96.TXT
+2|1
+1|1
+*****
+
+***** pdt_96.txt
+1|1
+2|1
+***** HQLCS_96.TXT
+1|1
+1|1
+1|1
+2|1
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_97.txt  hqlcs_97.txt 
+Comparing files pdt_97.txt and HQLCS_97.TXT
+***** pdt_97.txt
+7|1
+8|1
+***** HQLCS_97.TXT
+9|1
+4|1
+2|1
+6|1
+8|1
+*****
+
+***** pdt_97.txt
+10|2
+3|1
+***** HQLCS_97.TXT
+10|2
+5|1
+1|1
+11|2
+3|1
+*****
+
+***** pdt_97.txt
+0|1
+1|1
+2|1
+9|1
+4|1
+5|1
+6|1
+11|2
+***** HQLCS_97.TXT
+0|1
+7|1
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_98.txt  hqlcs_98.txt 
+Comparing files pdt_98.txt and HQLCS_98.TXT
+***** pdt_98.txt
+7|1
+8|1
+***** HQLCS_98.TXT
+9|1
+4|1
+2|1
+6|1
+8|1
+*****
+
+***** pdt_98.txt
+10|2
+3|1
+***** HQLCS_98.TXT
+10|2
+5|1
+1|1
+11|2
+3|1
+*****
+
+***** pdt_98.txt
+0|1
+1|1
+2|1
+9|1
+4|1
+5|1
+6|1
+11|2
+***** HQLCS_98.TXT
+0|1
+7|1
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_99.txt  hqlcs_99.txt 
+Comparing files pdt_99.txt and HQLCS_99.TXT
+***** pdt_99.txt
+1|1
+2|2
+1|1
+***** HQLCS_99.TXT
+1|1
+1|1
+*****
+
+***** pdt_99.txt
+1|1
+1|1
+***** HQLCS_99.TXT
+1|1
+2|2
+1|1
+*****
+
+***** pdt_99.txt
+1|1
+1|1
+***** HQLCS_99.TXT
+1|1
+2|2
+1|1
+*****
+
+***** pdt_99.txt
+2|2
+***** HQLCS_99.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_100.txt  hqlcs_100.txt 
+Comparing files pdt_100.txt and HQLCS_100.TXT
+***** pdt_100.txt
+1|1
+2|1
+***** HQLCS_100.TXT
+1|1
+10|2
+11|2
+2|1
+*****
+
+***** pdt_100.txt
+10|2
+11|2
+***** HQLCS_100.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_101.txt  hqlcs_101.txt 
+Comparing files pdt_101.txt and HQLCS_101.TXT
+***** pdt_101.txt
+1|1
+2|1
+***** HQLCS_101.TXT
+1|1
+10|1
+11|1
+2|1
+*****
+
+***** pdt_101.txt
+10|1
+11|1
+***** HQLCS_101.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_102.txt  hqlcs_102.txt 
+Comparing files pdt_102.txt and HQLCS_102.TXT
+***** pdt_102.txt
+1|1
+1|1
+***** HQLCS_102.TXT
+1|1
+2|1
+2|1
+1|1
+*****
+
+***** pdt_102.txt
+2|1
+2|1
+***** HQLCS_102.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_103.txt  hqlcs_103.txt 
+Comparing files pdt_103.txt and HQLCS_103.TXT
+***** pdt_103.txt
+66|2
+***** HQLCS_103.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_104.txt  hqlcs_104.txt 
+Comparing files pdt_104.txt and HQLCS_104.TXT
+***** pdt_104.txt
+66|14
+***** HQLCS_104.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_105.txt  hqlcs_105.txt 
+Comparing files pdt_105.txt and HQLCS_105.TXT
+***** pdt_105.txt
+2|14
+***** HQLCS_105.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_106.txt  hqlcs_106.txt 
+Comparing files pdt_106.txt and HQLCS_106.TXT
+***** pdt_106.txt
+66|2
+***** HQLCS_106.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_107.txt  hqlcs_107.txt 
+Comparing files pdt_107.txt and HQLCS_107.TXT
+***** pdt_107.txt
+66|14
+***** HQLCS_107.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_108.txt  hqlcs_108.txt 
+Comparing files pdt_108.txt and HQLCS_108.TXT
+***** pdt_108.txt
+2|14
+***** HQLCS_108.TXT
+*****
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_109.txt  hqlcs_109.txt 
+Comparing files pdt_109.txt and HQLCS_109.TXT
+FC: no differences encountered
+
+
+C:\myprojects\HQLCS\Testing\PDTrack>fc pdt_110.txt  hqlcs_110.txt 
+Comparing files pdt_110.txt and HQLCS_110.TXT
+FC: no differences encountered
+

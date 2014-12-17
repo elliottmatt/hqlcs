@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2CE073E6-313A-4C11-B996-11EDB9332082}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Hql</RootNamespace>
+    <AssemblyName>HqlCs</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>12.0</OldToolsVersion>
+    <ApplicationRevision>0</ApplicationRevision>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;ERRORCHECK</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;ERRORCHECK</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="HqlCalc.cs" />
+    <Compile Include="HqlCalcOptions.cs" />
+    <Compile Include="HqlCategory.cs" />
+    <Compile Include="HqlClause.cs" />
+    <Compile Include="HqlCompareToken.cs" />
+    <Compile Include="HqlCs.cs" />
+    <Compile Include="HqlCsTester.cs" />
+    <Compile Include="HqlDataSource.cs" />
+    <Compile Include="HqlEvaluator.cs" />
+    <Compile Include="HqlField.cs" />
+    <Compile Include="HqlFieldGroup.cs" />
+    <Compile Include="HqlHaving.cs" />
+    <Compile Include="HqlHavingRow.cs" />
+    <Compile Include="HqlObject.cs" />
+    <Compile Include="HqlOutFile.cs" />
+    <Compile Include="HqlOutput.cs" />
+    <Compile Include="HqlRecord.cs" />
+    <Compile Include="HqlResultRow.cs" />
+    <Compile Include="HqlScalar.cs" />
+    <Compile Include="HqlFrom.cs" />
+    <Compile Include="HqlFunction.cs" />
+    <Compile Include="HqlTable.cs" />
+    <Compile Include="HqlGroupBy.cs" />
+    <Compile Include="HqlKey.cs" />
+    <Compile Include="HqlKeywords.cs" />
+    <Compile Include="HqlLine.cs" />
+    <Compile Include="HqlOrderBy.cs" />
+    <Compile Include="HqlUniqueHash.cs" />
+    <Compile Include="HqlValues.cs" />
+    <Compile Include="HqlValuesComparer.cs" />
+    <Compile Include="HqlWith.cs" />
+    <Compile Include="HqlQuery.cs" />
+    <Compile Include="HqlSelect.cs" />
+    <Compile Include="HqlToken.cs" />
+    <Compile Include="HqlTokenProcessor.cs" />
+    <Compile Include="HqlWhere.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

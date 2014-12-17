@@ -1,0 +1,6 @@
+1a|abc123|aaabbb|205-123-1234
+2a|def456|cccddd|205-567-6789
+3a|ghi789|eeefff|334-123-1234
+3b|ghi789|eeefff|334-567-6789
+2b|def456|cccddd|254-123-1234
+1b|abc123|aaabbb|254-567-6789

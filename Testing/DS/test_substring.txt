@@ -1,0 +1,6 @@
+xyzAxyz|1
+xyzAxyz|2
+xyzBxyz|4
+xyzBxyz|5
+xyzCxyz|5
+xyzCxyz|6
